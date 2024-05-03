@@ -21,3 +21,8 @@ This is my GitHub's profile.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp  
 <div>
+
+- 🔭 I’m currently working on Finance
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate with UEFA and RFEF
+- 💬 Ask me about anything, I'll answer about what I really know.
