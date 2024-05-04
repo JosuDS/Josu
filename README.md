@@ -2,6 +2,11 @@
   
 ![JOSU](/images.jpeg)
 
+     </a>
+  </div>
+</div>
+
+
 <div id="header" align="center">
 
   <div id="badges">
