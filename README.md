@@ -25,7 +25,8 @@ This is my GitHub's profile.
 </div>
 
 
-- 🔭 I’m currently working on Finance
+
+- 🔭 I’m currently working with numbers
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with UEFA and RFEF
 - 💬 Ask me about anything, I'll answer about what I really know.
