@@ -22,7 +22,8 @@ This is my GitHub's profile.
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp  
 <div>
 
-\
+</div>
+
 
 - 🔭 I’m currently working on Finance
 - 🌱 I’m currently learning Python
