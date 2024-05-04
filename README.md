@@ -2,7 +2,6 @@
   
 ![JOSU](/images.jpeg)
 
-     </a>
   </div>
 </div>
 
