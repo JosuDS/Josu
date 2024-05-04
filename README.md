@@ -1,4 +1,4 @@
-![JOSU](img/images.jpeg)
+![JOSU](/images.jpeg)
 
 <div id="header" align="center">
 
